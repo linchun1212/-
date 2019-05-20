@@ -1,0 +1,281 @@
+.g {
+  margin: 0 auto;
+}
+/*头部logo部位*/
+header {
+  width: 7rem;
+  height: 0.65rem;
+  padding-left: 0.2rem;
+  padding-top: 0.25rem;
+  margin: 0 auto;
+}
+.box1 {
+  display: block;
+}
+header .logo {
+  display: block;
+  width: 1.23rem;
+  height: 0.42rem;
+  float: left;
+}
+header .gengduo {
+  display: block;
+  width: 0.36rem;
+  height: 0.4rem;
+  float: right;
+  margin-left: 0.28rem;
+}
+header .ren {
+  display: block;
+  width: 0.33rem;
+  height: 0.38rem;
+  margin-top: 0.05rem;
+  float: right;
+}
+/*第一张广告图*/
+.first_tu {
+  height: 2.2rem;
+  padding-left: 0;
+  position: relative;
+  margin: 0 auto;
+  width: 7.2rem;
+}
+.first_tu .banner {
+  display: block;
+  width: 7.2rem;
+  height: 2.2rem;
+}
+.quan {
+  position: absolute;
+  top: 1.91rem;
+  left: 3.19rem;
+}
+.first_tu .quan01 {
+  width: 0.11rem;
+  height: 0.11rem;
+  border-radius: 50%;
+  margin-left: 0.11rem;
+  border: 0.01rem solid #fff;
+  float: left;
+}
+.quan02 {
+  background: #fff;
+}
+/*主图下面的导航 */
+.nva {
+  width: 6.88rem;
+  height: 1.53rem;
+  padding-left: 0.32rem;
+  padding-top: 0.3rem;
+  border-bottom: 0.01rem solid #ccc;
+  margin: 0 auto;
+}
+.nva a {
+  float: left;
+  margin-left: 0.4rem;
+  height: 1.53rem;
+  text-align: center;
+  font-size: 0.22rem;
+}
+.nva img {
+  display: block;
+  width: 0.86rem;
+  height: 0.86rem;
+  margin-bottom: 0.15rem;
+}
+.nva .tuiguang {
+  margin-left: 0;
+}
+/*热门推荐*/
+.main {
+  width: 7.2rem;
+  height: 8.86rem;
+  padding-left: 0;
+  padding-top: 0.1rem;
+  background: #dbbebe;
+  margin: 0 auto;
+}
+.main .main01 {
+  height: 8.86rem;
+  background: #fff;
+}
+.main_title {
+  height: 0.79rem;
+  padding: 0 0.3rem 0;
+}
+.main_title h2 {
+
+  font-size: 0.34rem;
+  line-height: 0.79rem;
+  font-weight: normal;
+  float: left;
+}
+.main_title .duo {
+  font-size: 0.22rem;
+  line-height: 0.79rem;
+  color: #ff6c00;
+  float: right;
+}
+/*标题下面的图片内容*/
+.main01 .main_top {
+  width: 6.95rem;
+  height: 3.42rem;
+  border-top: 1px solid #e7e7e7;
+  padding: 0.25rem 0.3rem 0;
+}
+.main_top .left_top {
+  width: 3.1rem;
+  height: 3.77rem;
+  float: left;
+}
+.main_top .top_left {
+  display: block;
+  width: 3.1rem;
+}
+.top_left .chanpin {
+  display: block;
+  width: 3.1rem;
+  height: 1.76rem;
+}
+.top_left h3 {
+  font-size: 0.28rem;
+  line-height: 0.28rem;
+  margin-top: 0.21rem ;
+  font-weight: normal;
+}
+.top_left .neirong {
+  font-size: 0.22rem;
+  line-height: 0.4rem;
+  color: #666;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+/*图片下面的作者*/
+.main_top .shijian {
+  width: 3.1rem;
+  padding-top: 0.08rem;
+  font-size: 0.2rem;
+  line-height: 0.2rem;
+  color: #999;
+}
+.shijian img {
+  display: block;
+  float: left;
+}
+.shijian .touxiang {
+  width: 0.24rem;
+  height: 0,24rem;
+  margin-right: 0.05rem;
+}
+.shijian .biao {
+  width: 0.18rem;
+  height: 0.18rem;
+  margin: 0.03rem 0.04rem 0 0.22rem;
+  color: #999;
+}
+.shijian span {
+  float: left;
+}
+.main_top .right_top {
+  margin-left: 0.4rem;
+}
+.main01 .min_bottom {
+  border-top: 0.01rem solid #e7e7e7;
+}
+.wenzhang {
+  width: 7.2rem;
+  height: 6.8rem;
+  border-bottom: 1px solid #e7e7e7;
+  padding-top: 0.1rem;
+  background: #eeeaea;
+  margin: 0 auto;
+}
+.wenzhang .wen_main {
+  height: 6.8rem;
+  background: #fff;
+  border-bottom: 1px solid #e7e7e7;
+}
+.wenzhang .main_title {
+  height: 0.79rem;
+  border-bottom: 1px solid #e7e7e7;
+}
+.wen_main .article {
+  display: block;
+  height: 1.27rem;
+  width: 6.6rem;
+  border-bottom: 1px solid #e7e7e7;
+  padding-top: 0.22rem;
+  margin: 0 auto;
+}
+.article .app_ui {
+  display: block;
+  width: 1.7rem;
+  height: 0.9rem;
+  float: right;
+  margin-top: 0.03rem;
+}
+.article .article_left {
+  font-size: 0.28rem;
+  color: #333;
+  line-height: 0.48rem;
+}
+.wen_main .last_article {
+  border-bottom: none;
+}
+/*底部关注方式*/
+.guanzhu {
+  width: 7.2rem;
+  height: 2.6rem;
+  padding-top: 0.1rem;
+  background: #eeeaea;
+  margin: 0 auto;
+}
+.guanzhu_main {
+  height: 2.6rem;
+  background: #fff;
+  position: relative;
+}
+.guanzhu_main .xian {
+  width: 2.42rem;
+  height: 0.01rem;
+  background: #ccc;
+  position: absolute;
+  top: 0.47rem;
+}
+.guanzhu_main .xian01 {
+  left: 0.32rem;
+}
+.guanzhu_main .xian02 {
+  right: 0.32rem;
+}
+.guanzhu_main .women {
+  width: 1.73rem;
+  font-size: 0.34rem;
+  line-height: 0.34rem;
+  color: #333;
+  position: absolute;
+  top: 0.29rem;
+  left: 2.74rem;
+  text-align: center;
+}
+/*最下面的登录方式*/
+.guanzhu_main .fangshi {
+  height: 1.24rem;
+  position: absolute;
+  left: 1.28rem;
+  top: 0.95rem;
+}
+.fangshi a {
+  display: inline-block;
+  width: 1.24rem;
+  height: 1.24rem;
+}
+.fangshi a img {
+  width: 1.24rem;
+  height: 1.24rem;
+}
+.fangshi .weibo {
+  margin: 0 0.46rem 0 0.47rem;
+}

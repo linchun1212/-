@@ -1,0 +1,312 @@
+.title {
+  width: 7.2rem;
+  height: 1.55rem;
+  border-top: 0.01rem solid #eeeaea;
+  margin: 0 auto;
+}
+.title h1 {
+  font-size: 0.36rem;
+  color: #333;
+  line-height: 0.94rem;
+  text-align: center;
+  font-weight: normal;
+}
+.title .zuozhe {
+  padding: 0.07rem 0 0 0.92rem;
+}
+.title .zuozhe img {
+  display: block;
+  float: left;
+}
+.title .zuozhe span {
+  display: block;
+  float: left;
+  font-size: 0.2rem;
+  line-height: 0.24rem;
+  color: #999;
+}
+.title .zuozhe .zhou {
+  width: 0.24rem;
+  height: 0.24rem;
+  margin-right: 0.1rem;
+  vertical-align: middle;
+}
+.title .zuozhe .biao {
+  width: 0.18rem;
+  height: 0.18rem;
+  margin: 0.03rem 0.12rem 0 0.22rem;
+}
+.title .zuozhe .chakan {
+  width: 0.28rem;
+  height: 0.16rem;
+  margin: 0.04rem 0.07rem 0 0.22rem;
+}
+.title .zuozhe .xiaoxi {
+  width: 0.18rem;
+  height: 0.18rem;
+  margin: 0.04rem 0.1rem 0 0.2rem;
+}
+/*文章的第一段*/
+.duan01 {
+  width: 7.2rem;
+  height: 3.99rem;
+  margin: 0 auto;
+}
+.duan01 .duan_main {
+  width: 6.6rem;
+  padding-top: 0.24rem;
+  border-top: 0.01rem solid #eeeaea;
+  margin: 0 auto;
+  font-size: 0.3rem;
+  line-height: 0.6rem;
+  color: #666;
+}
+.chatu {
+  width: 6.6rem;
+  height: 3.6rem;
+  margin: 0 auto;
+}
+.chatu .chatu01 {
+  display: block;
+  width: 6.4rem;
+  height: 3.6rem;
+  margin: 0 auto;
+}
+/*文章的第二段*/
+.duan02 {
+  width: 7.2rem;
+  height: 4.11rem;
+  margin: 0 auto;
+}
+.duan02 .duan03 {
+  width: 6.6rem;
+  height: 3.94rem;
+  margin: 0 auto;
+  font-size: 0.3rem;
+  line-height: 0.6rem;
+  color: #666;
+  padding-top: 0.17rem;
+}
+.jiazai {
+  width: 7.2rem;
+  height: 0.72rem;
+  margin: 0 auto;
+  position: relative;
+}
+.jiazai .xian {
+  width: 2.28rem;
+  height: 0.01rem;
+  background: #e7e7e7;
+  position: absolute;
+  top: 0.11rem;
+}
+.jiazai .xian01 {
+  left: 0.3rem;
+}
+.jiazai .xian02 {
+  right: 0.3rem;
+}
+.jiazai p {
+  width: 2.16rem;
+  line-height: 0.24rem;
+  text-align: center;
+  font-size: 0.24rem;
+  color: #666;
+  position: absolute;
+  top: 0;
+  left: 2.58rem;
+}
+.jiazai p .xin {
+  width: 0.26rem;
+  height: 0.23rem;
+  margin-right: 0.14rem;
+}
+/*分享点赞部位*/
+.tubiao {
+  width: 6.4rem;
+  height: 0.45rem;
+  padding-left: 0.8rem;
+  margin: 0 auto;
+}
+.tubiao .img {
+  display: block;
+  float: left;
+  height: 0.45rem;
+}
+.tubiao .fenxiang {
+  width: 0.45rem;
+}
+.tubiao .duanxiaoxi {
+  width: 0.47rem;
+  margin: 0 1.24rem 0;
+}
+.tubiao .xingxing {
+  width: 0.48rem;
+  margin-right: 1.2rem;
+}
+.tubiao .dainzan {
+  width: 0.45rem;
+}
+/*发表评论*/
+h2 {
+  width: 6.9rem;
+  line-height: 0.8rem;
+  font-size: 0.34rem;
+  padding-left: 0.3rem;
+  margin: 0.22rem auto 0;
+  color: #333;
+  font-weight: normal;
+}
+form {
+  width: 6.9rem;
+  height: 1.16rem;
+  margin: 0 auto;
+  padding-left: 0.3rem;
+}
+form .pinglun {
+  width: 5.38rem;
+  height: 1.12rem;
+  border: 0.02rem solid #e7e7e7;
+  border-right: none;
+  font-size: 0.24rem;
+  line-height: 0.44rem;
+  color: #999;
+  padding: 0;
+  display: block;
+  float: left;
+  resize: none;
+  outline: none;
+  text-indent: 2em;
+  background: url(../images/qianbi.png) no-repeat ;
+  background-size: 0.32rem;
+}
+form .tijiao {
+  width: 1.2rem;
+  height: 1.16rem;
+  background: #ff6600;
+  font-size: 0.3rem;
+  color: #fff;
+  border: none;
+  padding: 0;
+  display: block;
+  float: left;
+}
+form .tijiao:hover {
+  cursor: pointer;
+}
+/*全部评论*/
+.quanbu {
+  width: 6.9rem;
+  height: 0.83rem;
+  padding: 0.18rem 0 0 0.3rem;
+  margin: 0 auto;
+}
+.quanbu h3 {
+  width: 6.6rem;
+  line-height: 0.8rem;
+  font-size: 0.34rem;
+  color: #333;
+  border-bottom: 0.01rem solid #e7e7e7;
+  font-weight: normal;
+}
+/*其中一个评论*/
+.lun {
+  width: 6.6rem;
+  height: 1.39rem;
+  padding: 0.29rem 0.3rem 0;
+  margin: 0 auto;
+}
+.lun .baoyatu {
+  display: block;
+  width: 0.6rem;
+  height: 0.6rem;
+  float: left;
+}
+.lun .pinglun01 {
+  width: 5.8rem;
+  float: right;
+}
+.lun .pinglun01 .name {
+  font-size: 0.24rem;
+  line-height: 0.24rem;
+  color: #ff6600;
+  float: left;
+}
+.lun .pinglun01 .huifu {
+  float: right;
+  padding-top: 0.01rem;
+}
+.lun .pinglun01 .huifu .xiaozan {
+  width: 0.18rem;
+  height: 0.18rem;
+  margin-right: 0.1rem;
+}
+.lun .pinglun01 .huifu .duanxi {
+  width: 0.18rem;
+  height: 0.18rem;
+  margin: 0 0.2rem 0 0.21rem;
+}
+.lun .pinglun01 .huifu span {
+  font-size: 0.2rem;
+  line-height: 0.2rem;
+  color: #999999;
+}
+.lun .pinglun01 .time {
+  font-size: 0.2rem;
+  line-height: 0.2rem;
+  color: #999999;
+  margin-top: 0.42rem;
+}
+.lun .pinglun01 .time .time01 {
+  width: 0.18rem;
+  height: 0.18rem;
+  vertical-align: top;
+  margin-right: 0.06rem;
+}
+.lun .pinglun01 .ping {
+  font-size: 0.24rem;
+  line-height: 0.74rem;
+  color: #666666;
+}
+/*相关文章*/
+.xiangguan {
+  width: 7.2rem;
+  height: 3.35rem;
+  background: #eeeaea;
+  padding-top: 0.1rem;
+  border-top: 0.01rem solid #ccc;
+  border-bottom: 0.01rem solid #ccc;
+  margin: 0 auto;
+}
+.xiangguan .xiangguan01 {
+  width: 6.6rem;
+  height: 3.35rem;
+  padding: 0 0.3rem 0;
+  background: #fff;
+}
+.xiangguan .xiangguan01 h5 {
+  font-size: 0.34rem;
+  line-height: 0.79rem;
+  color: #333333;
+  font-weight: normal;
+  border-bottom: 0.01rem solid #e7e7e7;
+}
+.xiangguan .xiangguan01 .wen {
+  height: 2.3rem;
+  margin-top: 0.25rem;
+  display: flex;
+  justify-content: space-between;
+}
+.xiangguan .xiangguan01 .wen .left {
+  display: block;
+  width: 2rem;
+  text-align: center;
+  font-size: 0.24rem;
+  line-height: 0.4rem;
+  color: #666666;
+}
+.xiangguan .xiangguan01 .wen .left img {
+  width: 2rem;
+  height: 1.13rem;
+  margin-bottom: 0.16rem;
+}

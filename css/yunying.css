@@ -1,0 +1,124 @@
+
+/*导航部位*/
+.nva01 {
+  width: 7.05rem;
+  height: 1.21rem;
+  padding: 0.3rem 0 0.3rem 0.15rem;
+  border-top: 0.01rem solid #eeeaea;
+  border-bottom: 0.01rem solid #eeeaea;
+  margin: 0 auto;
+}
+.nva01 a {
+  display: block;
+  width: 1.18rem;
+  height: 0.51rem;
+  border: 1px solid #ccc;
+  font-size: 0.22rem;
+  line-height: 0.51rem;
+  color: #666;
+  text-align: center;
+  margin-left: 0.15rem;
+  float: left;
+  border-radius: 0.51rem;
+}
+.nva01 .seo {
+  color: #ff6c00;
+  border-color: #ff6c00;
+}
+.nva01 .nva02 {
+  margin-top: 0.2rem;
+}
+/*下面新闻部位*/
+.xinwen {
+  width: 7.2rem;
+  height: 10.69rem;
+  padding-top: 0.1rem;
+  background: #eeeaea;
+  margin: 0 auto;
+}
+.xinwen_main {
+  height: 10.69rem;
+  background: #fff;
+  padding: 0 0.3rem 0;
+}
+.xinwen_main .xin {
+  width: 6.6rem;
+  height: 1.87rem;
+  border-bottom: 0.01rem solid #e7e7e7;
+  padding-top: 0.24rem;
+}
+.xin .xin00{
+  width: 2.8rem;
+  height: 1.58rem;
+  display: block;
+  float: left;
+}
+.xin .xin01 {
+  width: 2.8rem;
+  height: 1.58rem;
+  display: block;
+}
+.xin .xin02 {
+  float: left;
+  width: 3.4rem;
+  padding-top: 0.05rem;
+  margin-left: 0.21rem;
+}
+.xin02 .biao {
+  display: block;
+  font-size: 0.28rem;
+  line-height: 0.28rem;
+  color: #333;
+}
+.xin02 .neirong {
+  display: block;
+  font-size: 0.22rem;
+  color: #666;
+  line-height: 0.4rem;
+  margin-top: 0.09rem;
+}
+.shijian {
+  padding-top: 0.06rem;
+  float: left;
+  margin-left: 0.18rem;
+  font-size: 0.18rem;
+  line-height: 0.18rem;
+  color: #999;
+}
+.shijian .biao {
+  width: 0.18rem;
+  height: 0.18rem;
+  margin: 0.07rem 0.06rem 0 0.22rem;
+  color: #999;
+  float: left;
+}
+.shijian .touxiang {
+  width: 0.29rem;
+  height: 0.29rem;
+  margin-right: 0.1rem;
+  float: left;
+}
+.shijian span {
+  float: left;
+  margin-top: 0.07rem;
+}
+/*加载中*/
+.jiazai {
+  width: 7.2rem;
+  height: 0.63rem;
+  border-bottom: 0.01rem solid #cccccc;
+  padding-top: 0.43rem;
+  margin: 0 auto;
+}
+.jiazai .jiazaimain {
+  display: block;
+  width: 0.26rem;
+  height: 0.23rem;
+  margin: 0 auto;
+  float: left;
+  margin: 0 0.15rem 0 3.05rem;
+}
+.jiazai span {
+  font-size: 0.24rem;
+  line-height: 0.24rem;
+}
